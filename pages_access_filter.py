@@ -1,0 +1,1 @@
+filtre_traitement = bool
